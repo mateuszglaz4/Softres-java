@@ -1,0 +1,6 @@
+W module1 utwórz program bankomat. Staraj się modelami i metodami odzwierciedlić prawdziwą sytuację:
+-bankomat jest powiązany z bankiem, który zawiera bazę kont klientów i ich dane (może być to przechowywane w kolekcji),
+-karta bankomatowa wiąże użytkownika z jego kontem w banku
+-jeden użytkownik może mieć wiele kont w banku
+-dla uproszczenia przyjmijmy, że z jednym kontem jest powiązana jedna karta
+-bankomat powinien wspierać wpłacanie i wypłacanie
